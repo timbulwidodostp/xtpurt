@@ -1,6 +1,8 @@
 # xtpurt
 Modern panel unit root tests for heteroskedastic panels Use xtpurt With STATA 19
 
+https://www.youtube.com/watch?v=w40T2A_CtzE
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
